@@ -1,0 +1,33 @@
+body {
+    background: #f5f7f9;
+}
+
+.class1 {
+    background: #0f8de9;
+    color: #fff;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+.class2 {
+
+    color: #fff;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+.backgrond{
+    background: rgba(0,153,229,.3);
+    border: 1px solid #eeee;
+}
+.parent{
+    cursor: pointer;
+}
+.center {
+    text-align: center;
+}
+
+.padding-top-1rem {
+    padding-top: 1rem;
+}
+
